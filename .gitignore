@@ -5,3 +5,4 @@
 *.bak
 *.dat
 crypto-cat-pwn/05-injecting_custom_shellcode/flag.txt
+*.rep/
